@@ -1,0 +1,130 @@
+header{
+     height: 58px;
+     background-color: #5b1666;
+}
+
+#logo{
+     height: 58px;
+     width: 58px;
+     float: left;
+}
+
+#headname{
+     color: #a868ce;
+     height: 40px;
+     float: left;
+     margin-left: 2%;
+}
+
+#hyperlink{
+     color: #a868ce;
+     text-decoration: none;
+}
+
+#social{
+     text-align: right;
+}
+
+.slogo{
+     height: 50px;
+     width: 50px;
+     margin-top: 0.5%;
+}
+
+a{
+     text-decoration: none;
+}
+
+#subheading{
+     height: 38px;
+     background-color: #a868ce;
+     font-size: 25px;
+     color: #5b1666;
+     text-align: center;
+     font-weight: bold;
+}
+
+.subhead{
+     border-left: #5b1666;
+     border-left-style: solid;
+}
+
+.hyperserve{
+     color: #5b1666;
+     text-decoration: none;
+     margin-left: 1%;
+     margin-right: 2%;
+}
+
+.hyperserve:hover{
+     color: #5b1666;
+}
+
+.hyperservee{
+     font-size: 25px;
+     font-weight: bold;
+     color: #5b1666;
+     background-color: #a868ce;
+     border: none;
+     margin-left: 1%;
+     margin-right: 5%;
+}
+
+.btnli{
+     font-size: 26px;
+     font-weight: bold;
+     color: #dcf6e0;
+     background-color: #59187f;
+     padding-top: 0.4%;
+     padding-bottom: 0.5%;
+     border-radius: 5px;
+}
+
+.btnli:hover{
+     color: #dcf6e0;
+     background-color: #59187f;
+}
+
+.btnre{
+     font-size: 26px;
+     font-weight: bold;
+     color: #dcf6e0;
+     background-color: #183064;
+     padding-top: 0.4%;
+     padding-bottom: 0.5%;
+     border-radius: 5px;
+}
+
+.btnre:hover{
+     color: #dcf6e0;
+     background-color: #183064;
+}
+
+.btnlo{
+     font-size: 20px;
+     color: #fcfcf0;
+     background-color: #360852;
+     border-radius: 5px;
+     padding-top: 0.2%;
+     padding-bottom: 0.1%;
+}
+
+.btnna{
+     font-size: 20px;
+     color: #dcf6e0;
+     background-color: #183064;
+     padding-top: 0.5%;
+     padding-bottom: 0.5%;
+     border-radius: 5px;
+     text-decoration: none;
+}
+
+.btnna:hover{
+     color: #dcf6e0;
+     background-color: #183064;
+}
+
+a:focus, a:hover{
+     color: #dcf6e0;
+     text-decoration: none;
+}

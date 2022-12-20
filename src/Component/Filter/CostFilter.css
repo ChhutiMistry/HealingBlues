@@ -1,0 +1,19 @@
+.filterbo{
+     color: #d8d1ef;
+     background-color: #5b1666;
+     border-radius: 40px;
+}
+
+#filterna{
+     font-size: 25px;
+     font-weight: bold;
+     color: #e496e3;
+     margin-left: 10%;
+     margin-bottom: 0%;
+}
+
+.filterbu{
+     margin: 2%;
+     margin-left: 0%;
+     font-size: 18px;
+}

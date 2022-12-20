@@ -1,0 +1,95 @@
+.carousel-inner > .item > img{
+     height: 550px;
+}
+
+.backgroundimage{
+     width: 100%;
+}
+
+a{
+     text-decoration: none;
+     color: black;
+}
+
+a:hover{
+     text-decoration: none;
+     color: black;
+}
+
+.servicebox{
+     border-style: double;
+     border-width: 10px;
+     height: 412px;
+     width: 358px;
+     margin-left: 14%;
+     margin-right: 7%;
+     margin-bottom: 15%;
+}
+
+.serviceimage{
+     height: 347px;
+     width: 338px;
+}
+
+.servicename{
+     font-size: 25px;
+     font-weight: bold;
+     text-align: center;
+     margin-top: 2%;
+}
+
+.servicename1{
+     font-size: 22px;
+     font-weight: bold;
+     margin-top: 2%;
+}
+
+.bioheading{
+     font-size: 40px;
+     text-align: center;
+     font-weight: bold;
+     color: #5b1666;
+     margin-bottom: 2%;
+}
+
+.bioheading > #myservice{
+     color: #5b1666;
+}
+
+.afterbio{
+     border-bottom: black;
+     border-bottom-style: groove;
+}
+
+#dataone{
+     font-size: 40px;
+}
+
+#datatwo{
+     font-size: 40px;
+}
+
+#datathree{
+     font-size: 40px;
+}
+
+#bioimage{
+     float: right;
+     margin-bottom: 5%;
+     border-color: #a868ce;
+     border-style: ridge;
+     border-width: 15px;
+}
+
+.reviewimage{
+     width: 40%;
+     margin: auto;
+}
+
+.revew{
+     height: auto;
+}
+
+.handreview{
+     color: black;
+}

@@ -1,0 +1,60 @@
+#afterbio{
+     border-bottom: black;
+     border-bottom-style: groove;
+}
+
+#bioheading{
+     font-size: 40px;
+     text-align: center;
+     font-weight: bold;
+     margin-top: 2%;
+     margin-bottom: 1%;
+}
+
+#afterbio{
+     border-bottom: black;
+     border-bottom-style: groove;
+}
+
+#dataone{
+     font-size: 40px;
+     font-family: emoji;
+     font-weight: bol;
+}
+
+#datatwo{
+     font-size: 40px;
+     font-family: emoji;
+     font-weight: bod;
+}
+
+#datathree{
+     font-size: 40px;
+     font-family: emoji;
+     font-weight:400;
+}
+
+#bioimage{
+     float: right;
+     margin-bottom: 5%;
+}
+
+.heading{
+     font-size: 40px;
+     text-align: center;
+     font-weight: bold;
+     color: black;
+     margin-top: 2%;
+     margin-bottom: 2%;
+}
+
+.qualione{
+     font-size: 25px;
+     font-family: Franklin Gothic Medium;
+}
+
+.certimage{
+     margin-left: 5%;
+     margin-top: 2%;
+     margin-bottom: 3%;
+}

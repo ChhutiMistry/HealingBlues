@@ -1,0 +1,47 @@
+.sstpicture{
+     box-shadow: -20px -20px 10px #5b1666;
+     margin-top: 10%;
+     margin-bottom: 10%;
+}
+
+#sstimage{
+     height: 100%;
+     width: 100%;
+}
+
+#sstinformation{
+     box-shadow: 20px 20px 10px #5b1666;
+     margin-top: 2%;
+     margin-bottom: 5%;
+     margin-left: 6%;
+}
+
+#sstheading{
+     font-size: 50px;
+     font-family: cursive;
+     margin-bottom: 5%;
+}
+
+.sstdescription{
+     font-size: 26px;
+     margin-top: 2%;
+     margin-left: 7%;
+}
+
+#sstformbutton{
+     direction: rtl;
+}
+
+#sstbutton{
+     font-size: 28px;
+     color: #5b1666;
+     font-weight: bold;
+     margin-top: 4%;
+     margin-right: 5%;
+     margin-bottom: 5%;
+     border-radius: 10%;
+     border-style: inset;
+     border-color: #5b1666;
+     border-width: 2px;
+     box-shadow: 10px 10px 10px #5b1666;
+}

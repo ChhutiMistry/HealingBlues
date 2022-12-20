@@ -1,0 +1,18 @@
+.carousel-inner > .item > img{
+     height: 550px;
+}
+
+.image{
+     width: 90%;
+     margin: auto;
+}
+
+#box1{
+     border-style: double;
+     border-width: 8px;
+     height: 774px;
+     width: 460px;
+     margin-top: 1%;
+     margin-bottom: 2%;
+     padding-top: 1%;
+}

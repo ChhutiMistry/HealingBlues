@@ -1,0 +1,48 @@
+.gpicture{
+     box-shadow: -20px -20px 10px #5b1666;
+     margin-top: 10%;
+     margin-bottom: 10%;
+}
+
+#gimage{
+     height: 100%;
+     width: 100%;
+}
+
+#ginformation{
+     box-shadow: 20px 20px 10px #5b1666;
+     margin-top: 2%;
+     margin-bottom: 5%;
+     margin-left: 6%;
+}
+
+#gheading{
+     font-size: 50px;
+     font-family: cursive;
+     margin-bottom: 5%;
+}
+
+.gdescription{
+     font-size: 26px;
+     margin-top: 5%;
+     margin-left: 5%;
+     margin-right: 5%;
+}
+
+#gformbutton{
+     direction: rtl;
+}
+
+#gbutton{
+     font-size: 28px;
+     color: #5b1666;
+     font-weight: bold;
+     margin-top: 10%;
+     margin-right: 5%;
+     margin-bottom: 5%;
+     border-radius: 10%;
+     border-style: inset;
+     border-color: #5b1666;
+     border-width: 2px;
+     box-shadow: 10px 10px 10px #5b1666;
+}

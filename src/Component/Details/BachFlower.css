@@ -1,0 +1,53 @@
+.bftpicture{
+     box-shadow: -20px -20px 10px #5b1666;
+     margin-top: 10%;
+     margin-bottom: 10%;
+}
+
+#bftimage{
+     height: 100%;
+     width: 100%;
+}
+
+#bftinformation{
+     box-shadow: 20px 20px 10px #5b1666;
+     margin-top: 2%;
+     margin-bottom: 5%;
+     margin-left: 6%;
+}
+
+#bftheading{
+     font-size: 50px;
+     font-family: cursive;
+     margin-bottom: 5%;
+}
+
+#bftquote{
+     font-size: 27px;
+     margin-left: 5%;
+     margin-right: 5%;
+}
+
+.bftdescription{
+     font-size: 26px;
+     margin-top: 2%;
+     margin-left: 10%;
+}
+
+#bftformbutton{
+     direction: rtl;
+}
+
+#bftbutton{
+     font-size: 28px;
+     color: #5b1666;
+     font-weight: bolder;
+     margin-top: 2%;
+     margin-right: 5%;
+     margin-bottom: 5%;
+     border-radius: 10%;
+     border-style: inset;
+     border-color: #5b1666;
+     border-width: 2px;
+     box-shadow: 10px 10px 10px #5b1666;
+}
